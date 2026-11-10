@@ -1,0 +1,33 @@
+2026-07-07 14:53:24 [ERROR]: ❌ MongoDB connection failed: querySrv EREFUSED _mongodb._tcp.primekicks.f5lvh7k.mongodb.net
+2026-07-07 15:20:15 [ERROR]: ❌ MongoDB connection failed: querySrv EREFUSED _mongodb._tcp.primekicks.f5lvh7k.mongodb.net
+2026-07-07 15:33:26 [ERROR]: ❌ MongoDB connection failed: querySrv EREFUSED _mongodb._tcp.primekicks.f5lvh7k.mongodb.net
+2026-07-07 15:40:53 [INFO]: ✅ MongoDB connected: ac-jqehvbr-shard-00-01.f5lvh7k.mongodb.net
+2026-07-07 15:40:55 [INFO]: Admin accounts ready: owner, manager, staff1, staff2
+2026-07-07 15:40:55 [INFO]: 🚀 Prime Kicks API running on port 5000 [development]
+2026-07-07 15:40:55 [INFO]:    Health → http://localhost:5000/api/health
+2026-07-07 15:41:49 [INFO]: ::1 - - [07/Jul/2026:12:41:49 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-07 15:42:04 [INFO]: ::1 - - [07/Jul/2026:12:42:04 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-07 15:42:23 [INFO]: ::1 - - [07/Jul/2026:12:42:23 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-07 15:42:39 [INFO]: ::1 - - [07/Jul/2026:12:42:39 +0000] "GET /admin HTTP/1.1" 404 144 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-07 15:46:21 [INFO]: ✅ MongoDB connected: ac-jqehvbr-shard-00-02.f5lvh7k.mongodb.net
+2026-07-07 15:46:23 [INFO]: Admin accounts ready: owner, manager, staff1, staff2
+2026-07-07 15:46:23 [INFO]: 🚀 Prime Kicks API running on port 5000 [production]
+2026-07-07 15:46:23 [INFO]:    Health → http://localhost:5000/api/health
+2026-07-08 11:24:44 [INFO]: ✅ MongoDB connected: ac-jqehvbr-shard-00-02.f5lvh7k.mongodb.net
+2026-07-08 11:24:47 [INFO]: Admin accounts ready: owner, manager, staff1, staff2
+2026-07-08 11:24:47 [INFO]: 🚀 Prime Kicks API running on port 5000 [production]
+2026-07-08 11:24:47 [INFO]:    Health → http://localhost:5000/api/health
+2026-07-08 11:32:50 [INFO]: ✅ MongoDB connected: ac-jqehvbr-shard-00-00.f5lvh7k.mongodb.net
+2026-07-08 11:32:53 [INFO]: Admin accounts ready: owner, manager, staff1, staff2
+2026-07-08 11:32:53 [INFO]: 🚀 Prime Kicks API running on port 5000 [production]
+2026-07-08 11:32:53 [INFO]:    Health → http://localhost:5000/api/health
+2026-07-08 11:48:28 [INFO]: ✅ MongoDB connected: ac-jqehvbr-shard-00-02.f5lvh7k.mongodb.net
+2026-07-08 11:48:32 [INFO]: Admin accounts ready: owner, manager, staff1, staff2
+2026-07-08 11:48:32 [INFO]: 🚀 Prime Kicks API running on port 5000 [production]
+2026-07-08 11:48:32 [INFO]:    Health → http://localhost:5000/api/health
+2026-07-08 12:27:57 [WARN]: MongoDB disconnected — retrying in 5s...
+2026-07-08 12:28:02 [INFO]: ✅ MongoDB connected: ac-jqehvbr-shard-00-02.f5lvh7k.mongodb.net
+2026-07-08 12:47:58 [INFO]: ✅ MongoDB connected: ac-jqehvbr-shard-00-02.f5lvh7k.mongodb.net
+2026-07-08 12:48:01 [INFO]: Admin accounts ready: owner, manager, staff1, staff2
+2026-07-08 12:48:01 [INFO]: 🚀 Prime Kicks API running on port 5000 [production]
+2026-07-08 12:48:01 [INFO]:    Health → http://localhost:5000/api/health
