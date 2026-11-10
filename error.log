@@ -1,0 +1,3 @@
+2026-07-07 14:53:24 [ERROR]: ❌ MongoDB connection failed: querySrv EREFUSED _mongodb._tcp.primekicks.f5lvh7k.mongodb.net
+2026-07-07 15:20:15 [ERROR]: ❌ MongoDB connection failed: querySrv EREFUSED _mongodb._tcp.primekicks.f5lvh7k.mongodb.net
+2026-07-07 15:33:26 [ERROR]: ❌ MongoDB connection failed: querySrv EREFUSED _mongodb._tcp.primekicks.f5lvh7k.mongodb.net
